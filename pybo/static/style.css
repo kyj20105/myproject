@@ -1,0 +1,11 @@
+textarea {
+    background-color: lightblue;
+    width: 100%;
+}
+h1{
+    background-color: green;
+}
+
+input[type=submit] {
+    margin-top: 10px;
+}
